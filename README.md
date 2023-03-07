@@ -101,11 +101,17 @@ Igual que la multiplicación, la división es más fácil cuando los números es
 
 ![image](https://user-images.githubusercontent.com/117045943/222785553-d9e84957-cdaa-4b98-8ecb-bbfa16acdce2.png)
 
-![image](https://user-images.githubusercontent.com/117045943/222785617-e501d124-69a3-4241-bafb-cd4d39c96223.png)
-![image](https://user-images.githubusercontent.com/117045943/222785642-9fcf5f7d-91ef-4c6d-9015-1e2639d0e702.png)
-![image](https://user-images.githubusercontent.com/117045943/222785673-cf0b93a9-9614-4fc1-8242-3e96cfd6909e.png)
-![image](https://user-images.githubusercontent.com/117045943/222785688-bdddd1f6-52d1-4667-9e5d-4e3e043add19.png)
-![image](https://user-images.githubusercontent.com/117045943/222785694-4bb17f47-a1a4-4329-a336-5533ea13788f.png)
+![image](https://user-images.githubusercontent.com/117045943/223506170-02910d37-86e2-44f5-a464-6ad8c6f017d2.png)
+![image](https://user-images.githubusercontent.com/117045943/223506201-831d6fbb-f797-48f2-baef-8fb5a18b0960.png)
+![image](https://user-images.githubusercontent.com/117045943/223506218-c77d42db-eee5-465f-a423-25e33b018e37.png)
+![image](https://user-images.githubusercontent.com/117045943/223506236-98d00816-a334-4157-8318-ea5c7dc271f7.png)
+![image](https://user-images.githubusercontent.com/117045943/223506279-39d842a5-c964-42d1-8e2e-1176a870dd6e.png)
+![image](https://user-images.githubusercontent.com/117045943/223506304-df67bfce-7174-4da2-9b5b-f4aa8e1e2239.png)
+![image](https://user-images.githubusercontent.com/117045943/223506321-c8468998-8628-495c-beef-531ca3a360e5.png)
+![image](https://user-images.githubusercontent.com/117045943/223506351-a3f67510-4dc3-4925-8c0d-a1f95e662c46.png)
+![image](https://user-images.githubusercontent.com/117045943/223506367-e811fd8c-69c0-42de-8536-dff2d9610d69.png)
+![image](https://user-images.githubusercontent.com/117045943/223506382-2d445f96-be61-4b62-8309-5fb3d373234d.png)
+
 
 Como se puede observar los resultados obtenidos analíticamente son muy parecidos a los resultados obtenidos por la calculadora científica, la diferencia es de décimas y esto se debe a que al momento de trabajar analíticamente se usan solo dos décimas para los cálculos mientras que la calculadora arroja un valor más exacto ya que trabajo con todas las décimas.
 
